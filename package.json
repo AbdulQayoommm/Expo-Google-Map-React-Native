@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^35.0.0",
+    "expo": "^48.0.0",
     "expo-cli": "^3.3.0",
     "expo-location": "^7.0.0",
     "react": "16.8.3",

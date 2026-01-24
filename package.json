@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "expo": "^35.0.0",
-    "expo-cli": "^3.3.0",
+    "expo-cli": "^6.3.12",
     "expo-location": "^7.0.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
